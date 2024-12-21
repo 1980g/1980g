@@ -1,4 +1,4 @@
-### Oi! Eu sou a Gabi, iniciando recentimento nesse ramo e estou em busca de aprendizado ...👋
+### Oi! Eu sou a Gabi, iniciando agora e estou em busca de aprendizado ...👋
 
 ##
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 No momento estou apenas estudando ...
-- 🌱 Estou iniciando nessa nova area de conhecimento ...
+- 🌱 Estou iniciando nessa nova area de conhecimento e vim da ADM...
 - 👯 Estou a procura de participação em projetos sem fins lucrativos, como voluntário, para busca de conhecimento ...
 
 ##
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
  </div>
  
 ##
-
 
 
 
